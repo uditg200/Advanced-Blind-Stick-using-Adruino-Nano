@@ -1,7 +1,7 @@
 # Advanced Blind Stick Using Adruino Nano
 __________________________________________
 
-#Group Members :
+Group Members :
 -
 
 1) Abhishek Tiwary       (9917102238)
