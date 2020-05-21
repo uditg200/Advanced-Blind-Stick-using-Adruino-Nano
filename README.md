@@ -9,8 +9,10 @@ Group Members :
 3) Udit Gupta            (9917102241)
 
 __________________________________________
-Type of Project : Hardware + Software
-- 
+Type of Project : 
+-
+Hardware + Software
+ 
 __________________________________________
 About The Project :
 -
