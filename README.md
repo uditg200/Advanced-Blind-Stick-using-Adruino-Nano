@@ -1,5 +1,20 @@
 # Advanced Blind Stick Using Adruino Nano
 
+Group Members :
+
+_____________
+
+
+1) Abhishek Tiwary       (9917102238)
+2) Akshita Chaudhary     (9917102254)
+3) Udit Gupta            (9917102241)
+
+
+Type of Project : Hardware + Software
+
+_______________
+
+
 The people who use ordinary stick as a tool for direction, when they walk they are not able to identify that there is any obstacle in their way without the contact of the object and the stick.
 
 
